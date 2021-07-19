@@ -18,9 +18,9 @@
 
 ## 效果预览
 
-![wangao的练习情况](https://luogu.vercel.app/practice?id=313209)
+![Skykguj的练习情况](https://luogu.vercel.app/practice?id=524554)
 
-![wangao的咕值信息](https://luogu.vercel.app/guzhi?id=313209&scores=100,65,45,15,0)
+![Skykguj的咕值信息](https://luogu.vercel.app/guzhi?id=524554&scores=100,65,45,15,0)
 
 *(上面的咕值仅为展示效果，本人咕值并没有这么高)*
 
@@ -33,13 +33,13 @@
 1. 仅使用图片：直接复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id是洛谷个人主页地址的一串数字）。
 
    ```markdown
-   ![wangao的练习情况](https://luogu.vercel.app/practice?id=313209)
+   ![Skykguj的练习情况](https://luogu.vercel.app/practice?id=524554)
    ```
 
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
 
    ```markdown
-   [![wangao的练习情况](https://luogu.vercel.app/practice?id=313209)](https://github.com/wao3/luogu-stats-card)
+   [![Skykguj的练习情况](https://luogu.vercel.app/practice?id=524554)](https://github.com/wao3/luogu-stats-card)
    ```
 
 ### 咕值信息
@@ -51,12 +51,12 @@
 1. 仅使用图片：复制以下内容到任意 markdown 编辑器中，并将 `?id=`后面的数字更改为自己的 id，将`scores=`后面更换为自己的咕值信息，一共 5 个数字，用逗号分隔。
 
    ```markdown
-   ![wangao的咕值信息](http://luogu.vercel.app/guzhi?id=313209&scores=100,65,45,15,0)
+   ![Skykguj的咕值信息](http://luogu.vercel.app/guzhi?id=524554&scores=100,65,45,15,0)
    ```
    
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
    ```markdown
-   [![wangao的咕值信息](http://luogu.vercel.app/guzhi?id=313209&scores=100,65,45,15,0)](https://github.com/wao3/luogu-stats-card)
+   [![Skykguj的咕值信息](http://luogu.vercel.app/guzhi?id=524554&scores=100,65,45,15,0)](https://github.com/wao3/luogu-stats-card)
    ```
    
 
@@ -68,44 +68,44 @@
 1. **隐藏标题**，只需在链接最后带上`&hide_title=true`即可，例如：
 
    ```markdown
-   ![wangao的练习情况](https://luogu.vercel.app/api?id=313209&hide_title=true)
+   ![Skykguj的练习情况](https://luogu.vercel.app/api?id=524554&hide_title=true)
    ```
 
    效果：
 
-   ![wangao的练习情况](https://luogu.vercel.app/api?id=313209&hide_title=1)
+   ![Skykguj的练习情况](https://luogu.vercel.app/api?id=524554&hide_title=1)
 
 2. **黑暗模式**，只需在链接最后带上`&dark_mode=true`即可，例如：
 
    ```markdown
-   ![wangao的练习情况](https://luogu.vercel.app/api?id=313209&dark_mode=true)
+   ![Skykguj的练习情况](https://luogu.vercel.app/api?id=524554&dark_mode=true)
    ```
 
    效果：
 
-   ![wangao的练习情况](https://luogu.vercel.app/api?id=313209&dark_mode=1)
+   ![Skykguj的练习情况](https://luogu.vercel.app/api?id=524554&dark_mode=1)
 3. **自定义宽度**，默认500，限制宽度在500到1920之间，只需在链接最后带上`&card_width=需要的宽度`即可，例如：
 
    ```markdown
-   ![wangao的练习情况](https://luogu.vercel.app/api?id=313209&card_width=750)
+   ![Skykguj的练习情况](https://luogu.vercel.app/api?id=524554&card_width=750)
    ```
 
    效果：
 
-   ![wangao的练习情况](https://luogu.vercel.app/api?id=313209&card_width=750)
+   ![Skykguj的练习情况](https://luogu.vercel.app/api?id=524554&card_width=750)
    
 
 ## 自行部署
 
 如果想要自行试验或者二次开发可以自行部署到自己的 vercel 服务器，登录 [vercel](https://vercel.com/) 后，点击下方按钮即可部署。
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/wao3/luogu-stats-card)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sky390/luogu-card)
 
 ## 如何参与贡献
 
 #### 提供bug反馈或建议
 
-使用 [issue](https://github.com/wao3/luogu-stats-card/issues) 反馈bug时，尽可能详细描述 bug 及其复现步骤
+使用 [issue](https://github.com/sky390/luogu-card/issues) 反馈bug时，尽可能详细描述 bug 及其复现步骤
 
 #### 贡献代码的步骤
 
