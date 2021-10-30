@@ -51,7 +51,7 @@ class Card {
     return `
       <svg xmlns="http://www.w3.org/2000/svg" width="${cardSize.width}" height="${cardSize.height}" viewBox="0 0 ${cardSize.width} ${cardSize.height}" fill="none">
         <style>
-          .text { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${this.darkMode?"#fffefe":"#333333"} }
+          .text { font: 400 11px Ubuntu; fill: ${this.darkMode?"#fffefe":"#333333"} }
           .title {fill: ${this.darkMode?"#fffefe":"#333333"}}
           .line { stroke:${this.darkMode?"#666666":"#dddddd"}; stroke-width:1 }
           ${this.css}
